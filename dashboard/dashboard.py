@@ -95,7 +95,9 @@ with col1:
         """
     )
     st.markdown("#### Input Summary")
-    st.json(input_data)
+    # --- Changed to table instead of array/dict ---
+    input_df = pd.DataFrame(list(input_data.items()), columns=["Input", "Value"])
+    st.table(input_df)
     st.markdown("---")
     st.markdown("#### About This App")
     st.caption(
