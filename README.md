@@ -104,15 +104,15 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 ### Contributors
 This project was made by the following: 
 
-- Aditya Chalapathy ([LinkedIn](YOUR_ARYAN_GOSAVI_LINKEDIN_URL_HERE))
-- Aryan Gosavi ([LinkedIn](YOUR_ARYAN_GOSAVI_LINKEDIN_URL_HERE))
-- Krish Bharadwaj ([LinkedIn](YOUR_KRISH_BHARADWAJ_LINKEDIN_URL_HERE))
+- Aditya Chalapathy ([LinkedIn](www.linkedin.com/in/aditya-chalapathy-5b4081247))
+- Aryan Gosavi ([LinkedIn](https://www.linkedin.com/in/aryangosavi/))
+- Krish Bharadwaj ([LinkedIn](https://www.linkedin.com/in/krish-vardhan-bharadwaj-469b1720a/))
 
 ## Contact
 
 Repository created by [astrogenius9](https://github.com/astrogenius9). 
 
-Aditya Chalapathy ([LinkedIn](YOUR_ARYAN_GOSAVI_LINKEDIN_URL_HERE))
+Aditya Chalapathy ([LinkedIn](www.linkedin.com/in/aditya-chalapathy-5b4081247))
 
 Project Link: [https://github.com/astrogenius9/AI-Driven-Green-Credit-Score-System](https://github.com/astrogenius9/AI-Driven-Green-Credit-Score-System).
 
